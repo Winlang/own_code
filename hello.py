@@ -3,4 +3,4 @@ class Hello(object):
 		print('hello %s.'%name)
 
 h = Hello()
-h.hello
+h.hello()
