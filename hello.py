@@ -13,3 +13,4 @@ Hello = type('Hello',(object,),dict(hello=fn))
 
 h = Hello()
 h.hello()
+#this is a test
