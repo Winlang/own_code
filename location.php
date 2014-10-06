@@ -1,4 +1,5 @@
 <?php
+//this is  test script
 function rad($d)
 {
     return $d * 3.1415926535898 / 180.0;
